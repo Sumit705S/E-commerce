@@ -1,5 +1,7 @@
 # Fashion Cube 🛍️
 
+🔗 **Live Demo:** [https://tranquil-belekoy-efb776.netlify.app/](https://tranquil-belekoy-efb776.netlify.app/)
+
 A full-stack fashion e-commerce application with a Node.js/Express backend and a vanilla HTML/CSS/JS frontend. Product data is sourced live from the [DummyJSON](https://dummyjson.com) API and filtered down to fashion-relevant categories (clothing, shoes, watches, bags, jewellery, beauty, etc.).
 
 ## Features
